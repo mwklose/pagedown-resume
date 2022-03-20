@@ -50,19 +50,15 @@ make_contact(info[["contact"]])
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
-
-- Full experience with next generation sequencing data analysis.
-
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+```{r}
+make_skills(info[["skills"]])
+```
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
 Last updated on `r Sys.Date()`.
 
 
