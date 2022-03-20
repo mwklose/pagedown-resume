@@ -29,8 +29,7 @@ lapply(libs, function(x){
 
 
 # Load R Scripts to
-resume_file <- "details.csv"
-info <- c()
+resume_file <- "./details.csv"
 # Read in Resume Data
 source("gather_data.R")
 source("make_sections.R")

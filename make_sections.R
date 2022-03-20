@@ -1,6 +1,11 @@
 
 make_contact <- function(infotable, priority=1){
-  print(infotable$Value)
+  infotable %>%
+    filter(Priority > priority) %>%
+    arrange(desc(Priority)) %>%
+    glue_data(
+      "- <i class=\"fa fa-{Icon}\"></i> {ValueLink} \n"
+    )
 }
 
 make_blurb <- function(infotable, priority=1){

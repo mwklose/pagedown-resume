@@ -1,8 +1,10 @@
 ﻿Section,Description,Priority,Icon,Value,Link,Start,End,MoreInfo1,Location,Mentors,Thesis,Coursework
 blurb,blurb,1,,Epidemiology PhD Student focused on Computational Epidemiology and Causal Inference,,,,"I am interested in unifying causal inference with computational methods to create more robust, generalizable, and applicable understanding of poor health outcomes and their root causes. ",,,,
-contact,email,,at,mklose@unc.edu,,,,,,,,
-contact,github,,github,github.com/mwklose,https://github.com/mwklose,,,,,,,
-contact,linkedin,,linkedin,mark-klose,https://www.linkedin.com/in/mark-klose,,,,,,,
+contact,email,3,at,mklose@unc.edu,,,,,,,,
+contact,github,3,github,github.com/mwklose,https://github.com/mwklose,,,,,,,
+contact,linkedin,3,linkedin,mark-klose,https://www.linkedin.com/in/mark-klose,,,,,,,
+contact,twitter,2,twitter-square,\@epi_egg,https://twitter.com/epi_egg,,,,,,,
+contact,phone,1,mobile-retro,(978) 902-8329,tel:9789028329,,,,,,,
 education,nahs,1,graduation-cap,North Andover High School,,2013,2017,,,,,
 education,ncsu,2,graduation-cap,NC State University,,2017,2021,B.S. in Computer Science,"Raleigh, NC, USA",[Ross Bassett](https://chass.ncsu.edu/people/ross-2/),Erasure of BIPOC Student Data from College Rankings,Software Engineering; Data Structures and Algorithms; Computational Geometry; Social Computing; Introduction to Linear Algebra
 education,ncsu,2,graduation-cap,NC State University,,2017,2021,"B.S. in Science, Technology, and Society","Raleigh, NC, USA","[Patsy Sibley](https://chass.ncsu.edu/people/pasibley/), [Mark Nance](https://chass.ncsu.edu/people/mtnance/)",Beyond Fake News: Conspiracy-Knowledge Construction of COVID-19 Deniers,Geographic Information Science Fundamentals; Technology in History; Mobile Communication; Bio-medical Ethics; Literature and Medicine
